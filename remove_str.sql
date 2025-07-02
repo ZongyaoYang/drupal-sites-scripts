@@ -1,3 +1,5 @@
+-- Rmove string href="mailto:oncley@ucar.edu"
+
 -- Clean from node__field_f_p_contact_information
 UPDATE `node__field_f_p_contact_information`
 SET
@@ -20,7 +22,7 @@ SET
 WHERE
     `field_sidebar_content_body_value` REGEXP 'href="mailto:[Oo][Nn][Cc][Ll][Ee][Yy]@[Uu][Cc][Aa][Rr]\\.[Ee][Dd][Uu]"';
 
--- Rmove string "oncley@ucar.edu"
+-- Rmove string "oncley@ucar.edu" case in-sensitive
 UPDATE `node__field_f_p_contact_information`
 SET
     `field_f_p_contact_information_value` = REGEXP_REPLACE (

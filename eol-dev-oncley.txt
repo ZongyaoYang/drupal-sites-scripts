@@ -1,0 +1,1015 @@
+Connecting to database...
+Searching for 'oncley@ucar.edu'...
+
+Found 21 in table `node__field_f_p_contact_information`, column `field_f_p_contact_information_value`:
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley </strong></a>NCAR/EOL</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:Oncley@UCAR.edu">Steve Oncley</a></strong> NCAR/EOL/ISF</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<p><strong>Principal Investigators:</strong></p><p><strong>Project Manager:</strong></p><ul><li><strong>&nbsp;</strong><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley</strong></a> NCAR/EOL</li></ul><p><strong>Data Manager:</strong></p><ul><li><a href="mailto:eol-archive@ucar.edu"><strong>EOL Archive</strong></a> NCAR/EOL/DMS</li></ul>
+========
+
+<p><a class="email fn" href="mailto:oncley@ucar.edu">Steve Oncley</a>&nbsp;- NCAR/EOL/ISF</p><p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=eol-archive@ucar.edu&amp;su=CME04%20Data%20Archive" target="_blank">EOL Archive</a>,&nbsp;NCAR/EOL/DMS</p>
+========
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:Oncley@UCAR.edu">Steve Oncley</a></strong> NCAR/EOL/ISF</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL-Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<p><strong>Principal Investigators:&nbsp;</strong></p><p><strong>Project Manager:</strong></p><ul><li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley</strong> </a>NCAR/EOL</li></ul><p><strong>Data Manager:</strong></p><ul><li><a href="mailto:eol-archive@ucar.edu"><strong>EOL Archive</strong></a> NCAR/EOL/DMS</li></ul>
+========
+
+<p><b>Principal Investigators:</b></p>
+
+<ul>
+	<li><strong>Steve Oncley</strong>&nbsp; NCAR/EOL<br />
+	<strong>Jim Wilczak</strong>&nbsp; NOAA/WPL<br />
+	<strong>Tom Horst</strong>&nbsp; NCAR/EOL<br />
+	<strong>John Wyngaard</strong>&nbsp; NCAR/MMM<br />
+	<strong>Al Bedard</strong>&nbsp; NOAA/WPL</li>
+</ul>
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><a href="mailto:oncley@ucar.edu"><strong>&nbsp;Steve Oncley</strong></a>&nbsp; NCAR/EOL</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong>&nbsp; NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong><a class="email fn" href="mailto:Oncley@UCAR.edu">Steve Oncley</a></strong> NCAR</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<div class="content">
+<div class="field field-name-field-f-p-contact-information field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong>&nbsp;<a href="mailto:oncley@ucar.edu">Steve Oncley</a></strong> NCAR/EOL</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+========
+
+<p><strong>Principal Investigators:</strong></p><p><strong>Project Manager:</strong></p><ul><li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley</strong></a> NCAR/EOL</li></ul><p><strong>Data Manager:</strong></p><ul><li><a href="mailto:eol-archive@ucar.edu"><strong>EOL Archive</strong></a> NCAR/EOL/DMS</li></ul>
+========
+
+<p><strong>Project Manager:</strong></p><ul><li><strong>&nbsp;</strong><a class="email fn" href="mailto:Oncley@UCAR.edu"><strong>Steve Oncley</strong></a><strong> </strong>NCAR/EOL/ISF</li></ul><p><strong>Data Manager</strong><br><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=eol-archive@ucar.edu&amp;su=MLO_CN2%20Data%20Archive" target="_blank">EOL Archive</a>,&nbsp;NCAR/EOL/DMS</p>
+========
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong><a class="email fn" href="mailto:Oncley@UCAR.edu">Steve Oncley</a></strong><strong> </strong>NCAR</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<p><strong>Project Manager:</strong></p><ul><li><strong>&nbsp;</strong><a class="email fn" href="mailto:Oncley@UCAR.edu"><strong>Steve Oncley</strong></a> NCAR/EOL</li></ul><p><strong>Data Manager</strong></p><ul><li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=eol-archive@ucar.edu&amp;su=NIWOT07%20Data%20Archive" target="_blank">EOL Archive</a>,&nbsp;NCAR/EOL/DMS</li></ul><p>&nbsp;</p>
+========
+
+<p><b>Principal Investigators:</b></p>
+
+<ul>
+	<li><a href="mailto:mahrt@nwra.com"><strong>Larry Mahrt</strong></a> NWRA</li>
+</ul>
+
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley</strong></a>&nbsp;NCAR/EOL</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a>&nbsp;</strong>NCAR/EOL/DMS</li>
+</ul>
+
+========
+
+<div class="content">
+<div class="field field-name-field-f-p-contact-information field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><b>Project Manager:</b></p>
+
+<ul>
+	<li><strong>&nbsp;<a href="mailto:oncley@ucar.edu">Steve Oncley</a></strong> NCAR/EOL</li>
+</ul>
+
+<p><b>Data Manager:</b></p>
+
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL/DMS</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+========
+
+<p><b>Principal Investigators:</b></span></p>
+<ul>
+	<li><strong>&nbsp;</strong></span></li>
+</ul>
+<p><b>Project Manager:</b></p>
+<ul>
+	<li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley</strong></span></a> NCAR/EOL</span></li>
+</ul>
+<p><b>Data Manager:</b></p>
+<ul>
+	<li><strong><a href="mailto:eol-archive@ucar.edu">EOL Archive</a></strong> NCAR/EOL</span></li>
+</ul>
+
+========
+
+<p><strong>Principal Investigators:</strong></p><ul><li><a href="mailto:carlton@envsci.rutgers.edu"><strong>Ann Marie Carlton</strong></a> Rutgers<br><a href="mailto:ahg@berkeley.edu"><strong>Allen Goldstein</strong></a> UC Berkeley<br><a href="mailto:jlj.colorado@gmail.com"><strong>Jose-Luis Jimenez</strong></a> CU-Boulder<br><strong>Alex Guenther</strong> NCAR</li></ul><p><strong>Project Manager:</strong></p><ul><li><strong>Jim Moore</strong> NCAR/EOL</li><li><a href="mailto:oncley@ucar.edu"><strong>Steve Oncley </strong></a>NCAR/EOL/ISFS</li></ul><p><strong>Data Manager:</strong></p><ul><li><a href="mailto:eol-archive@ucar.edu"><strong>EOL Archive</strong></a> NCAR/EOL/DMS</li></ul>
+========
+
+<p><b>Principal Investigator</b></p>
+
+<p><a href="mailto:carcher@udel.edu">Cristina Archer</a>,&nbsp;UD</p>
+
+<p><b>Project Manager</b></p>
+
+<p><a href="mailto:oncley@ucar.edu">Steven Oncley</a> NCAR/EOL</p>
+
+<p><b>Data Manager</b></p>
+
+<p><a href="mailto:eol-archive@ucar.edu">EOL Archive</a>,&nbsp;NCAR/EOL/DMS</p>
+
+<p>&nbsp;</p>
+
+========
+
+<p>&nbsp;</p><p><strong>Principal Investigators</strong></p><p><a href="mailto:leila@eri.ucsb.edu"><strong>Leila Carvalho</strong></a>, University of California, Santa Barbara&nbsp;<br><a href="mailto:cjones@eri.ucsb.edu"><strong>Charles Jones</strong></a>, University of California, Santa Barbara&nbsp;<br><strong>Gert-Jan Duine</strong>, University of California, Santa Barbara&nbsp;<br><strong>Joe Fernando</strong>, University of Notre Dame&nbsp;<br><strong>Craig Clements</strong>, San Jose State University&nbsp;<br><strong>Stephan De Wekker</strong>, University of Virginia&nbsp;<br><strong>David Fitzjarrald</strong>, University of Albany&nbsp;<br><strong>Robert Fovell</strong>, University of Albany&nbsp;<br><strong>Zhien Wang</strong>, CU Boulder&nbsp;<br><strong>Loren White</strong>, Jackson State University&nbsp;<br>&nbsp;</p><p><strong>EOL PMO Project Manager</strong><br>Alison Rockwell</p><p><strong>EOL Facility Project Managers</strong><br><a href="mailto:oncley@ucar.edu">Steve Oncley</a>, ISFS<br><a href="mailto:wbrown@ucar.edu">Bill Brown</a>, ISS</p><p><strong>Data Manager</strong><br><a href="mailto:eol-archive@ucar.edu?subject=SWEX%20Data%20Archive"><strong>EOL Archive</strong></a> NCAR/EOL/DMS</p>
+========
+
+<p><strong>Principal Investigators</strong><br><a href="mailto:Zhaoxia.Pu@utah.edu">Zhaoxia Pu</a>&nbsp;U of Utah<br><a href="mailto:pardyjak@gmail.com">Eric Pardyjak</a>&nbsp;U of Utah</p><p><strong>Project Manager</strong><br><a href="mailto:oncley@ucar.edu">Steve Oncley</a>&nbsp;NCAR/EOL/ISF</p><p><strong>Data Manager</strong><br><a href="mailto:eol-archive@ucar.edu?subject=CFACT%20Data%20Archive">EOL Archive</a> NCAR/EOL/DMS</p>
+========
+
+<p><strong>Principal Investigators:</strong></p>
+
+<p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=jdlund@uw.ed%20u" target="_blank">Jessica Lundquist</a>,&nbsp;U of Washington</p>
+
+<p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=jvano@agci.org" target="_blank">Julie Vano</a>,&nbsp;Aspen Global Change Institute</p>
+
+<p><strong>ISFS Lead Scientist</strong></p>
+
+<p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=oncley@ucar.edu" target="_blank">Steve Oncley</a>,&nbsp;NCAR/EOL/ISF</p>
+
+<p><strong>Data Management</strong></p>
+
+<p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=eol-archive@ucar.edu&amp;su=SOS%20Data%20Archive" target="_blank">EOL Archive</a>,&nbsp;NCAR/EOL/DMS</p>
+
+========
+Found 6 in table `node__field_sidebar_content_body`, column `field_sidebar_content_body_value`:
+
+<div class="page_header" id="item_81981441" style="background-color: rgb(237, 243, 254); margin: -15px -60px 10px -23px; padding: 13px 30px 13px 24px; font-family: 'Lucida Grande', verdana, arial, helvetica, sans-serif; font-size: medium;">
+	<div class="check_box_commentable" style="border-width: 1px 2px 2px 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(204, 204, 204) rgb(187, 187, 187) rgb(221, 221, 221); padding: 20px 0px 0px; margin: 16px 0px 10px -9px; background-color: rgb(255, 255, 255); background-position: initial initial; background-repeat: initial initial;">
+		<div class="content " style="margin: 0px 15px 20px 36px; position: relative;">
+			<p style="font-size: 18px; line-height: 20px; margin: 0px;"><span class="item"><strong>Steve Oncley:</strong>&nbsp;Default is Paroscientific Model 2000 or 6000, 0-15psia, absolute pressure transducer with nano-resolution processor. Should be ~$4K for transducer. Do we use their processor or use our own? (We should be able to program our PC-104 counters for this task. To get nano-resolution is a bit different than the way we used in AHATS.)</span></p>
+		</div>
+	</div>
+</div>
+<div class="comments" style="font-family: 'Lucida Grande', verdana, arial, helvetica, sans-serif; font-size: medium;">
+	<div id="comments">
+		<div class="comment" id="comment_99461031" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_99461031" name="99461031" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Mon, 14 Feb 2011 at 3:09pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">Datasheets for Model 2000 and Model 6000 (with integral electronics) are attached.&nbsp; We would want the 1601-001?&nbsp; Although this doesn&#39;t specifically say so, the 6000 should use nano-resolution technology and is quoted as 1 part in 10^8 resolution.</div>
+					<div class="attachments" style="margin: 5px 0px 10px;">
+						<div class="attachment" style="font-size: 14px; color: rgb(136, 136, 136); clear: left; line-height: 32px; margin-bottom: 13px; margin-top: 6px;"><a class="file_icon" href="https://fps-pm.basecamphq.com/projects/6484608/file/72664365/2000.pdf" style="padding: 0px; color: rgb(0, 51, 153); float: left; margin: 0px 8px 0px 0px;"><img alt="Icon_pdf_big" border="0" class="file_icon" height="32" src="https://asset1.basecamphq.com/rev_74b4eeb/images/icons/icon_PDF_big.png" style="padding: 0px; border: 0px; vertical-align: middle;" width="32" /></a>
+							<div>
+								<h2 style="font-family: 'Lucida Grande', arial, sans-serif; margin: 0px; color: rgb(51, 51, 51); font-size: 13px; padding: 3px 0px 0px; height: 16px; font-weight: normal; line-height: 13px;"><a href="https://fps-pm.basecamphq.com/projects/6484608/file/72664365/2000.pdf" style="padding: 1px; color: rgb(0, 51, 153);">2000.pdf</a></h2>
+								<p style="font-size: 10px !important; line-height: 16px; color: rgb(153, 153, 153); margin: 0px;">1.1 MB</p>
+							</div>
+						</div>
+						<div class="attachment" style="font-size: 14px; color: rgb(136, 136, 136); clear: left; line-height: 32px; margin-bottom: 13px; margin-top: 6px;"><a class="file_icon" href="https://fps-pm.basecamphq.com/projects/6484608/file/72664366/inttransmitters.pdf" style="padding: 0px; color: rgb(0, 51, 153); float: left; margin: 0px 8px 0px 0px;"><img alt="Icon_pdf_big" border="0" class="file_icon" height="32" src="https://asset1.basecamphq.com/rev_74b4eeb/images/icons/icon_PDF_big.png" style="padding: 0px; border: 0px; vertical-align: middle;" width="32" /></a>
+							<div>
+								<h2 style="font-family: 'Lucida Grande', arial, sans-serif; margin: 0px; color: rgb(51, 51, 51); font-size: 13px; padding: 3px 0px 0px; height: 16px; font-weight: normal; line-height: 13px;"><a href="https://fps-pm.basecamphq.com/projects/6484608/file/72664366/inttransmitters.pdf" style="padding: 1px; color: rgb(0, 51, 153);">inttransmitters.pdf</a></h2>
+								<p style="font-size: 10px !important; line-height: 16px; color: rgb(153, 153, 153); margin: 0px;">242 KB</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_119241254" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_119241254" name="119241254" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Mon, 20 Jun 2011 at 12:16pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">
+						<div>Here is the e-mail quote from Paul Migliacio on 18 Feb 2011:</div>
+						<div>&nbsp;</div>
+						<div>Steve:</div>
+						<div>&nbsp;</div>
+						<div>Thank you for taking the time to discuss your future applications of our nano-resolution products.&nbsp; These instruments are currently being deployed across the world in several atmospheric applications including: infrasound and gravity wave measurement, severe weather prediction, nuclear test monitoring and atmosphere/ocean turbulence measurements (John&rsquo;s Hopkins University).&nbsp; Due to the extremely high resolution we are readily able to see both natural and man-made atmospheric phenomena.&nbsp; In the very near future several arrays of instruments will be installed in Oklahoma to aid in severe weather detection, mainly tornadoes.&nbsp; As discussed in our telephone conversation this is a joint effort with the University of Massachusetts and the CASA program.</div>
+						<div>&nbsp;</div>
+						<div>This link will lead you to an explanation of the operation of the nano-resolution feature in our intelligent instruments.&nbsp;<a href="http://paroscientific.com/manuals/8819-001.pdf" style="padding: 1px; color: rgb(0, 51, 153);">http://paroscientific.com/manuals/8819-001.pdf</a>&nbsp;&nbsp;Please see Section 8.</div>
+						<div>&nbsp;</div>
+						<div>Our intelligent transmitters (Model 6000-16B) have nano-resolution incorporated and the feature is readily enabled through simple software commands.&nbsp; As discussed in our phone conversation, there are two versions of this product.&nbsp; The first is our standard Model 6000-16B and the second is the 6000-16B equipped with GPS interface capability.&nbsp; The 6000-16B with GPS interface capability is a &ldquo;Beta&rdquo; product at this time and will complete qualification testing in the near future.&nbsp; So far we have tested this barometer with a Garmin GPS 17X.&nbsp; A total of 5 will be installed in Japan within the next couple of months.&nbsp; Interest is growing rapidly in the market for a barometer equipped with GPS interface capability to provide highly precise pressure measurement-time correlation.</div>
+						<div>&nbsp;</div>
+						<div>Please note that all versions of our 6000-16B must be installed in your weather-proof enclosure.</div>
+						<div>&nbsp;</div>
+						<div>Following is our quotation for your two options:</div>
+						<div>&nbsp;</div>
+						<div>Model:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>6000-16B (no GPS interface)</strong></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Part #: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1600-102</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">SCD:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7600-001 (attached)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Price:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $5000 (qty 1-9)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $4700 (qty 10-24)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $4550 (qty 25-49)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $4400 (qty 51-99)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $4250 (qty 100 or greater)</span></div>
+						<div>&nbsp;</div>
+						<div>Optional Equipment:</div>
+						<div>Power adapter kit P/N 1294-001, SCD 7607-005 (attached).&nbsp; Price is $150 each and there is a 15% discount for quantities of 100 or greater yielding $127.50 each.</div>
+						<div>&nbsp;</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Model:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><strong style="font-size: 13px; line-height: 1.425em;">6000-16B (with GPS interface capability)</strong></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Part #: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1792-002</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">SCD:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TBD</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Price:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $6000 (qty 1-9)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $5640 (qty 10-24)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $5460 (qty 25-49)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $5280 (qty 50-99)</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $5100 (qty 100 or greater)</span></div>
+						<div>&nbsp;</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Optional Equipment:</span></div>
+						<div>&nbsp;</div>
+						<div>Power adapter and interface kit P/N 1294-101, SCD: TBD, Price is $300 each and there is a 15% discount for quantities of 100 or greater yielding $255 each.</div>
+						<div>&nbsp;</div>
+						<div><strong style="font-size: 13px; line-height: 1.425em;">Please also note that our current 6000-16B with or without GPS interface has a standard pressure range of 0.08 to 11 Mpa.&nbsp; We can readily extend this to 0.05 to 11 MPa at no additional cost, if required.&nbsp;</strong></div>
+						<div>&nbsp;</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">If you have any questions, please feel free to contact me.&nbsp; Our Director of Engineering, Don Hanson will send you and email in the next day or so regarding additional information on our GPS interface.</span></div>
+						<div>&nbsp;</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Thank you for your interest in our products.&nbsp; We look forward to working with you in the future.</span></div>
+						<div>&nbsp;</div>
+						<div>Best regards,</div>
+						<div>Paul Migliacio</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Vice President</span></div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Paroscientific, Inc</span></div>
+						<div>&nbsp;</div>
+						<div>Tel. 425-883-8700 X 303</div>
+						<div><span style="font-size: 13px; line-height: 1.425em;">Fax. 425-867-5407</span></div>
+						<div>&nbsp;</div>
+						<div>Please visit&nbsp;<a href="http://www.paroscientific.com/" style="padding: 1px; color: rgb(0, 51, 153);">http://www.paroscientific.com</a></div>
+						<div><strong>From:</strong>&nbsp;Steve Oncley [mailto:<a href="mailto:oncley@ucar.edu" style="padding: 1px; color: rgb(0, 51, 153);">oncley@ucar.edu</a>]&nbsp;</div>
+						<div><strong>Sent:</strong>&nbsp;Wednesday, February 16, 2011 4:38 PM</div>
+						<div><strong>To:</strong>&nbsp;Paul Migliacio</div>
+						<div><strong>Subject:</strong>&nbsp;Re: Nano-Resolution Update</div>
+						<div>&nbsp;</div>
+						<div>Hi Paul,</div>
+						<div>&nbsp;</div>
+						<div>Our group is beginning a process that I hope will result in the purchase of 100 of your absolute barometers with nano-resolution.&nbsp; Am I correct that we should be looking at your Model 6000, which appears to be a Model 2000 with an embedded Intelligent Interface Board, and that the IIB now does the nano-resolution processing?&nbsp; I believe we would order your part&nbsp;<em>1602-002</em>, in order to cover the range 0.06 -- 0.11 MPa (standard atmospheric pressure from sea level to mountains).&nbsp; For comparison, I would also be interested in learning the price of a&nbsp;<em>223A-102</em>&nbsp;by itself.&nbsp; Our interest is essentially to make a network of microbarographs, without having to deploy reference pressure vessels.</div>
+						<div>&nbsp;</div>
+						<div>It wouldn&#39;t have to be a formal quote, but could you let me know the price of these two instruments at quantity 1 and quantity 100?</div>
+						<div>&nbsp;</div>
+						<div>Thanks...Steve Oncley</div>
+						<div>&nbsp;</div>
+						<div>NCAR/EOL</div>
+						<div>PO Box 3000</div>
+						<div>Boulder, CO&nbsp; 80307-3000</div>
+						<div>ph: 303-444-9349</div>
+						<div><a href="mailto:oncley@ucar.edu" style="padding: 1px; color: rgb(0, 51, 153);">oncley@ucar.edu</a></div>
+						<div>&nbsp;</div>
+						<div>P.S. Would you possibly consider an exchange of these absolute sensors for some (only slightly used) 202BGs that we currently have?</div>
+						<div>&nbsp;</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_171455814" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_171455814" name="171455814" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Thu, 5 Apr 2012 at 1:42pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">
+						<div>We actually purchased a 1602-002, received it, and mounted at Marshall for testing beginning 2 Feb 2012.&nbsp; We got the sensor with integrated electronics for about $5K, which probably is what we would choose to use for CentNet.&nbsp; I&#39;ll add an entry now in the SE wiki about how it is configured.</div>
+						<div>The first plot below shows the difference between average values from it and from our present Vaisala PTB220 sensor.&nbsp; The differences are small (order of 0.1 mb) between these sensors, though the difference appears to be correlated with temperature, with a slope of about 3ub per degC. Obviously, we don&#39;t know which sensor (if either) is correct.&nbsp; We will try to figure out lab tests for this.</div>
+						<div>The second plot below shows a sample of power spectra from the two sensors.&nbsp; The noise level for the Paro is at an order of magnitude more than the PTB220, which is limited by its reporting resolution of 0.01mb = 10ub.&nbsp; Clearly, the Paro is capable of at least 1ub resolution in pressure.&nbsp; It is interesting that all p spectra I&#39;ve looked at have a greater-than-(-5/3) slope (more like -2) throughout the inertial range.&nbsp; It is true that I&#39;ve looked mostly at night-time data (seeing if I can catch gravity waves).&nbsp; Finally, I note that the pressure spectra appear to be unchanged when I implement fun.Pcorr() that attempts a wind-tunnel based correction for errors in the Quad-Disk-Probe.&nbsp;</div>
+					</div>
+					<div class="uploaded_images"><a class="image" href="https://fps-pm.basecamphq.com/projects/6484608/file/118139626/Pdiff.png" id="image_attachment_118139626" style="text-decoration: none; padding: 0px; color: rgb(0, 51, 153); background-image: none; position: relative; background-position: initial initial; background-repeat: initial initial;" title="Pdiff.png"><img alt="118139626" height="100" src="https://fps-pm.basecamphq.com/projects/6484608-centnet/thumbnails/118139626" style="border: 1px solid rgb(204, 204, 204); padding: 1px; margin: 0px 5px 5px 0px;" width="100" /></a>&nbsp;<a class="image" href="https://fps-pm.basecamphq.com/projects/6484608/file/118139627/Pspec.png" id="image_attachment_118139627" style="text-decoration: none; padding: 0px; color: rgb(0, 51, 153); background-image: none; position: relative; background-position: initial initial; background-repeat: initial initial;" title="Pspec.png"><img alt="118139627" height="100" src="https://fps-pm.basecamphq.com/projects/6484608-centnet/thumbnails/118139627" style="border: 1px solid rgb(204, 204, 204); padding: 1px; margin: 0px 5px 5px 0px;" width="100" /></a>
+						<div class="all_at_once" style="font-size: 10px; line-height: 1.4;"><a href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments/171455814/images" style="text-decoration: none; padding: 1px 1px 0px; color: rgb(136, 136, 136); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);" target="_blank">View all of these images at once</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_174473544" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_174473544" name="174473544" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Mon, 23 Apr 2012 at 4:19pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">
+						<div>Below is a plot that I believe shows the advantages of the Paro.&nbsp; This case is 21 Apr 2012 at 17:30 MDT.&nbsp; The PTB is just about flat at the digitizing level of 0.01mb, though the bit of variation follows the Paro, albeit with a bias of ~0.09mb.&nbsp; However, there is a turbulent power spectrum of pressure at a much lower amplitude that shows up on the Paro, but never is seen by the PTB.&nbsp; This power spectrum follows pretty well the vertical velocity power spectrum.</div>
+						<div>On the p-spectra plot, I have drawn noise at 0.01mb with a bandwidth of 0.5Hz for the PTB and noise at 1ub at a bandwidth of 6Hz for the Paro.&nbsp; As noted above, even lower noise often is seen in the Paro.</div>
+						<div>I believe this clearly demonstrates that having an order of magnitude higher resolution and an order of magnitude more bandwidth enables more science.&nbsp; All is at a pretty reasonable cost.</div>
+					</div>
+					<div class="uploaded_images"><a class="image" href="https://fps-pm.basecamphq.com/projects/6484608/file/120016004/pscan_1.png" id="image_attachment_120016004" style="text-decoration: none; padding: 0px; color: rgb(0, 51, 153); background-image: none; position: relative; background-position: initial initial; background-repeat: initial initial;" title="pscan_1.png"><img alt="120016004" height="100" src="https://fps-pm.basecamphq.com/projects/6484608-centnet/thumbnails/120016004" style="border: 1px solid rgb(204, 204, 204); padding: 1px; margin: 0px 5px 5px 0px;" width="100" /></a></div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_174605339" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_174605339" name="174605339" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Tue, 24 Apr 2012 at 8:54am</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">
+						<div>I should mention here that I spoke with Andreas Muschinski over the weekend who said that he had run up to 3 nanobarometers at a time, I believe for reasonably long periods.&nbsp; He said that they worked flawlessly and he never saw a data dropout.&nbsp; My estimate of noise at 0.3ub sounded about right to him.&nbsp; He also thought that running in IIR mode probably was best, but that FIR was okay too.</div>
+						<div class="paragraph_break" style="margin: 3px 0px 16px;">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_187094244" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_187094244" name="187094244" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Fri, 6 Jul 2012 at 12:49pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">I&#39;ll have to look up when, but we did change the reporting resolution of the PTB220 at Marshall to see the level of transducer noise. &nbsp;Haven&#39;t yet looked at these results.</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_220599036" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/81981441/comments#comment_220599036" name="220599036" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Tue, 12 Feb at 1:33pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">I need to add a mention of port testing here. &nbsp;In particular, results of the wind tunnel tests of QDPs from NOAA, Paro, and Allweather. &nbsp;These tests were done in 2007 (pre-CHATS) and are in my directory ~/instruments/pp/2007. &nbsp;The below plot shows the results.</div>
+					<div class="uploaded_images"><a class="image" href="https://fps-pm.basecamphq.com/projects/6484608/file/148170964/ports.jpg" id="image_attachment_148170964" style="text-decoration: none; padding: 0px; color: rgb(0, 51, 153); background-image: none; position: relative; background-position: initial initial; background-repeat: initial initial;" title="ports.jpg"><img alt="148170964" height="100" src="https://fps-pm.basecamphq.com/projects/6484608-centnet/thumbnails/148170964" style="border: 1px solid rgb(204, 204, 204); padding: 1px; margin: 0px 5px 5px 0px;" width="100" /></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="page_header" id="item_82308550" style="background-color: rgb(237, 243, 254); margin: -15px -60px 10px -23px; padding: 13px 30px 13px 24px; font-family: 'Lucida Grande', verdana, arial, helvetica, sans-serif; font-size: medium;">
+	<div class="check_box_commentable" style="border-width: 1px 2px 2px 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(204, 204, 204) rgb(187, 187, 187) rgb(221, 221, 221); padding: 20px 0px 0px; margin: 16px 0px 10px -9px; background-color: rgb(255, 255, 255); background-position: initial initial; background-repeat: initial initial;">
+		<div class="content " style="margin: 0px 15px 20px 36px; position: relative;">
+			<p style="font-size: 18px; line-height: 20px; margin: 0px;"><span class="item">Less expensive (and less quality) option is Vaisala PTB210 (or other models)</span></p>
+		</div>
+	</div>
+</div>
+<div class="comments" style="font-family: 'Lucida Grande', verdana, arial, helvetica, sans-serif; font-size: medium;">
+	<div id="comments">
+		<div class="comment" id="comment_99898758" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/82308550/comments#comment_99898758" name="99898758" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Wed, 16 Feb 2011 at 4:33pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">PTB210 datasheet</div>
+					<div class="attachments" style="margin: 5px 0px 10px;">
+						<div class="attachment" style="font-size: 14px; color: rgb(136, 136, 136); clear: left; line-height: 32px; margin-bottom: 13px; margin-top: 6px;"><a class="file_icon" href="https://fps-pm.basecamphq.com/projects/6484608/file/72946395/PTB210-Datasheet-B210942EN-A-LoRes.pdf" style="padding: 0px; color: rgb(0, 51, 153); float: left; margin: 0px 8px 0px 0px;"><img alt="Icon_pdf_big" border="0" class="file_icon" height="32" src="https://asset1.basecamphq.com/rev_74b4eeb/images/icons/icon_PDF_big.png" style="padding: 0px; border: 0px; vertical-align: middle;" width="32" /></a>
+							<div>
+								<h2 style="font-family: 'Lucida Grande', arial, sans-serif; margin: 0px; color: rgb(51, 51, 51); font-size: 13px; padding: 3px 0px 0px; height: 16px; font-weight: normal; line-height: 13px;"><a href="https://fps-pm.basecamphq.com/projects/6484608/file/72946395/PTB210-Datasheet-B210942EN-A-LoRes.pdf" style="padding: 1px; color: rgb(0, 51, 153);">PTB210-Datasheet-B210942EN-A-LoRes.pdf</a></h2>
+								<p style="font-size: 10px !important; line-height: 16px; color: rgb(153, 153, 153); margin: 0px;">371 KB</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comment" id="comment_174475858" style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221); clear: left; color: rgb(51, 51, 51); padding: 10px 0px;">
+			<div class="float_liner">
+				<div class="indented" style="margin-left: 60px;">
+					<div class="comment_header">
+						<h3 class="highlight" style="margin: 0px 0px 5px; font-family: 'Lucida Grande', arial, sans-serif; font-size: 11px; padding: 0px; background-color: rgb(255, 255, 204); font-weight: normal;"><a class="permalink" href="https://fps-pm.basecamphq.com/projects/6484608-centnet/todo_items/82308550/comments#comment_174475858" name="174475858" style="text-decoration: none !important; padding: 1px; color: rgb(51, 51, 51); font-size: 12px; margin-right: 2px;"><strong>Steve Oncley</strong>&nbsp;Mon, 23 Apr 2012 at 4:32pm</a></h3>
+					</div>
+					<div class="formatted_text_body rich_text" style="font-size: 13px; line-height: 1.425em; margin-bottom: 10px;">
+						<div>Steve Semmer also is playing with a tiny surface-mount barometer that he is toying with integrating into the TRH.&nbsp; This is the MPL3115A2 (see below).&nbsp; He has a development kit that we&#39;ll try to deploy at Marshall, but hasn&#39;t been able to find stock of individual parts yet.</div>
+						<div>This is an I2C device, with specified resolution of 1.5Pa = 15ub = 0.015mb and +/-0.4kPa = +/-4mb absolute accuracy.&nbsp; (Obviously Steve is hopeful that he can recalibrate them to achieve better absolute accuracy.)&nbsp; Data rate is 1sps in normal operation.</div>
+					</div>
+					<div class="attachments" style="margin: 5px 0px 10px;">
+						<div class="attachment" style="font-size: 14px; color: rgb(136, 136, 136); clear: left; line-height: 32px; margin-bottom: 13px; margin-top: 6px;"><a class="file_icon" href="https://fps-pm.basecamphq.com/projects/6484608/file/120017796/MPL3115A2.pdf" style="padding: 0px; color: rgb(0, 51, 153); float: left; margin: 0px 8px 0px 0px;"><img alt="Icon_pdf_big" border="0" class="file_icon" height="32" src="https://asset1.basecamphq.com/rev_74b4eeb/images/icons/icon_PDF_big.png" style="padding: 0px; border: 0px; vertical-align: middle;" width="32" /></a>
+							<div>
+								<h2 style="font-family: 'Lucida Grande', arial, sans-serif; margin: 0px; color: rgb(51, 51, 51); font-size: 13px; padding: 3px 0px 0px; height: 16px; font-weight: normal; line-height: 13px;"><a href="https://fps-pm.basecamphq.com/projects/6484608/file/120017796/MPL3115A2.pdf" style="padding: 1px; color: rgb(0, 51, 153);">MPL3115A2.pdf</a></h2>
+								<p style="font-size: 10px !important; line-height: 16px; color: rgb(153, 153, 153); margin: 0px;">314 KB</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+
+========
+
+<table border="1" cellpadding="1" cellspacing="1" class="table-no-border" height="123" width="330">
+	<tbody>
+		<tr>
+			<td><a href="mailto:moeng@ucar.edu">Chin-Hoh Moeng</a></td>
+			<td><em>NCAR/MMM</em></td>
+		</tr>
+		<tr>
+			<td><a href="mailto:pps@ucar.edu">Peter Sullivan</a></td>
+			<td><em>NCAR/MMM</em></td>
+		</tr>
+		<tr>
+			<td><a href="mailto:lenschow@ucar.edu">Don Lenschow</a></td>
+			<td><em>NCAR/MMM</em></td>
+		</tr>
+		<tr>
+			<td><a href="mailto:weil@ucar.edu">Jeff Weil</a></td>
+			<td><em>NCAR/MMM</em></td>
+		</tr>
+		<tr>
+			<td><a href="mailto:horst@ucar.edu">Tom Horst</a></td>
+			<td><em>NCAR/ISFS</em></td>
+		</tr>
+		<tr>
+			<td><a href="mailto:oncley@ucar.edu">Steve Oncley</a></td>
+			<td><em>NCAR/ISFS</em></td>
+		</tr>
+	</tbody>
+</table>
+<p>&nbsp;</p>
+
+========
+
+<p><strong>Principal Investigators</strong></p>
+<div>Joseph A. Zehnder zehnder@asu.edu<br />
+	Bart Geerts Geerts@uwyo.edu</div>
+<div><br />
+	<p><strong>Arizona State University</strong></p>
+</div>
+<div>Joseph A. Zehnder<br />
+	Anshuman Razdan<br />
+	Jiuxiang Hu<br />
+	Mahesh Chaudhari<br />
+	Brad Busby<br />
+	Bryan C. Paris</div>
+<div><br />
+	<strong>University of Wyoming </strong></div>
+<div><br />
+	Bart Geerts<br />
+	Rick R. Damiani<br />
+	Joshua C Demko<br />
+	Jeffrey French<br />
+	Larry Oolman<br />
+	Qun Miao<br />
+	Yonggang Wang</div>
+<div>
+	<p><br />
+		<strong>University of Arizona</strong></p>
+</div>
+<div>
+	<p>Jonathan Petti jrp@hwr.arizona.edu<br />
+		Steve Mullen mullen@atmo.arizona.edu<br />
+		Mike Leuthold leuthold@atmo.arizona.edu<br />
+		Rob Kursinski kursinsk@atmo.arizona.edu<br />
+		Ken Cummins cummins@atmo.arizona.edu<br />
+		E. Philip Krider krider@atmo.arizona.edu<br />
+		Bob Maddox maddox@atmo.arizona.edu<br />
+		Ronald L. Holle ron.holle@vaisala.com<br />
+		John Nangle john.nangle@gmail.com</p>
+</div>
+<div>
+	<div>
+		<p><strong>NCAR/EOL</strong></p>
+	</div>
+</div>
+<div>
+	<div>Steve Semmer semmer@ucar.edu<br />
+		Gregory S. Poulos gsp@ucar.edu<br />
+		John W Militzer militzer@ucar.edu<br />
+		Kurt Knudson kknudson@ucar.edu<br />
+		Chris Golubieski golub@ucar.edu<br />
+		Steven Oncley oncley@ucar.edu<br />
+		Tom Horst horst@ucar.edu<br />
+		Gordon Maclean maclean@ucar.edu<br />
+		Tim Lim tdlim@atd.ucar.edu</div>
+</div>
+<div>
+	<p><br />
+		<strong>University of Miami</strong></p>
+</div>
+<div>Brian Mapes bmapes@rsmas.miami.edu</div>
+<div>
+	<p><br />
+		<strong>Indiana University</strong></p>
+</div>
+<div>Constance Brown combrown@indiana.edu</div>
+
+========
+
+<p><strong>Integrated Surface Flux System (ISFS) Overview</strong></p>
+
+<p>The NCAR Integrated Surface Flux System (ISFS) is designed to study exchange processes between the atmosphere and Earth’s surface. This includes the direct measurement of fluxes of momentum, sensible and latent heat, trace gases (carbon dioxide is standard) and radiation, as well as standard atmospheric and surface variables. ISFS sensors include a mix of commercial and EOL in-house designed instruments. The ISFS can be deployed as a widely distributed network of surface weather stations - measuring the surface energy budget, fluxes, and some soil parameters. Alternatively, it can be deployed in closely spaced arrays to support intensive micrometeorological research at a single site. Solar and wind power along with cellular, and satellite data transmission permit ISFS to operate in almost any location.</p>
+
+<p style="margin-left: 40px;"><em>Configuration</em>: Ground-based, fixed<br />
+<em>Number of available systems</em>: 30</p>
+
+<p><strong>NCAR Integrated Surface Flux System (ISFS) Contact</strong></p>
+
+<p style="margin-left: 40px;">Dr. Steven Oncley / <a href="mailto:oncley@ucar.edu">oncley@ucar.edu</a> / (303) 497-8757
+<br />
+ISFS:&nbsp;<a href="https://www.eol.ucar.edu/observing_facilities/isfs">https://www.eol.ucar.edu/observing_facilities/isfs</a>
+<br />
+ISFS Sensor List:&nbsp;<a href="/node/1923">https://www.eol.ucar.edu/content/isfs-sensor-list</a></p>
+
+<h4 class="header-text-bold" style="">Request Form Questions</h4>
+
+<p>The request form questions are to determine the EOL resources required to carry out your project.&nbsp; We are asking so that we can determine:</p>
+
+<ul style="margin-left: 40px;">
+	<li>Which sensors are required (determining the level of complexity and time to calibrate sensors).</li>
+	<li>The type of tower structure needed to mount these sensors.</li>
+	<li>The source of electrical power needed for each station.</li>
+	<li>The type of data communication to be used at each station.</li>
+	<li>How each site will be physically accessed.</li>
+	<li>The amount of data processing that will be needed.</li>
+	<li>The level of staffing needed.</li>
+	<li>Any unusual risk factors.</li>
+</ul>
+
+<p>Assuming that the experiment design is described adequately in the Facility Request, only summary information is required in the ISFS portion of the form. If there are any questions, ISFS staff will contact the requestor.</p>
+
+<p>If approved, ISFS staff will want to participate with the PI in a pre-project site survey, to assist in determining the optimal (scientifically and logistically) site location and to identify any unique issues.</p>
+
+<p>&nbsp;</p>
+
+========
+
+<h3 class="content-header-h3" style="">CHEESEHEAD Code Policy Appendix&nbsp;</h3>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="3" cellspacing="1" id="project_resp" style="width: 700px">
+	<tbody>
+		<tr>
+			<th class="header" data-sort="999" id="1" onclick="sortTable(this)">
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Name </font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">and</font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Description</font></span></span></strong></p>
+			</th>
+			<th class="header" data-sort="999" id="2" onclick="sortTable(this)"><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Repository</font></span></span></strong></th>
+			<th class="header" data-sort="999" id="3" onclick="sortTable(this)">
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Point </font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">of </font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Contact</font></span></span></strong></p>
+			</th>
+			<th class="header" data-sort="999" id="4" onclick="sortTable(this)"><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Relevant Measurements</font></span></span></strong></th>
+			<th class="header" data-sort="999" id="5" onclick="sortTable(this)"><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Primary Language</font></span></span></strong></th>
+			<th class="header" data-sort="999" id="6" onclick="sortTable(this)">
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Terms&nbsp;</font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family: arial, helvetica, sans-serif;">and </span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family: arial, helvetica, sans-serif;">Conditions</span></span></strong></p>
+			</th>
+			<th class="header" data-sort="999" id="7" onclick="sortTable(this)">
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Primary </font></span></span></strong></p>
+
+			<p><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Reference</font></span></span></strong></p>
+			</th>
+			<th class="header" data-sort="999" id="8"><strong><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#FFF">Comments</font></span></span></strong></th>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">eddy4R.base; eddy4R.qaqc</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Eddy-covariance calculation for R: basic commonalities; quality assurance and quality control</span></span></p>
+			</td>
+			<td>
+			<p><span style="font-size:12px;"><a href="https://github.com/NEONScience/eddy4R">Repository Link&nbsp;</a>(released code)</span></p>
+
+			<p><span style="font-size:12px;"><a href="https://github.com/NEONScience/NEON-FIU-algorithm">Repository Link</a> (development) - Requires registration</span></p>
+			</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.neonscience.org/observatory/staff/stefan-metzger">Stefan Metzger</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">All</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">R</span></span></td>
+			<td>
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://choosealicense.com/licenses/agpl-3.0/">AGPL-3.0 </a>(released); </span></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.dropbox.com/s/vh5vkxbehnm7fbs/terms%20of%20use_NEON%20FIU%20algorithm%20repository_20150116-1.pdf?dl=0">Terms of use </a><span style="font-size:11px;">(development)</span></span></span></p>
+			</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.geosci-model-dev.net/10/3189/2017/">www.geosci-model-dev.net/10/ 3189/2017/</a></span></span></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">eddy4R.turb; eddy4R.stor; eddy4R.erf</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Eddy-covariance calculation for R: turbulent flux; storage flux; environmental response function</span></span></p>
+			</td>
+			<td>
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://github.com/NEONScience/NEON-FIU-algorithm">Repository Link</a> (development)</span></span></p>
+			</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.neonscience.org/observatory/staff/stefan-metzger">Stefan Metzger</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">All</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">R</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.dropbox.com/s/vh5vkxbehnm7fbs/terms%20of%20use_NEON%20FIU%20algorithm%20repository_20150116-1.pdf?dl=0">Terms of use</a> <span style="font-size:11px;">(development)</span></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.geosci-model-dev.net/10/3189/2017/">www.geosci-model-dev.net/10/ 3189/2017/</a></span></span></td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Desailab-flux</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Raw flux/met processing</span></span></p>
+			</td>
+			<td>
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="http://co2.aos.wisc.edu/data/code/idl-lib/">Repository Link&nbsp;</a></span></span></p>
+			</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://flux.aos.wisc.edu/ankur-cv">Ankur Desai</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Ameriflux flux towers</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">IDL</span></span></td>
+			<td><a href="https://choosealicense.com/licenses/agpl-3.0/"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">APGL-3.0</span></span></a></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">many</span></span></td>
+			<td>Unsorted&nbsp;&nbsp; list of production flux code and utilities</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong style="font-family: arial, helvetica, sans-serif;">Townsendlab-Ecosis</strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">Spectral PLSR analysis</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:ptownsend@wisc.edu?subject=CHEESEHEAD">Phil Townsend</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">UW SpecEx</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">R/Python</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">"available"</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong>SPARC code</strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Retrieval algorithms for profilers</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:tim.wagner@ssec.wisc.edu?subject=CHEESEHEAD">Tim Wagner</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">AERI, HSRL, HALO</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">NCAR ISS code</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Profiler retrievals</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:wbrown@ucar.edu?subject=CHEESEHEAD">Bill Brown</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">RASS, sondes, profilers</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">NCAR ISFS code</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Flux/met processing</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:oncley@ucar.edu?subject=CHEESEHEAD">Steve Oncley</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">ISFS towers</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">KIT LiDAR code</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">LiDAR retrieval</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:hannes.vogelmann@kit.edu?subject=CHEESEHEAD">Hannes Vogelmann</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Water vapor LiDAR</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong style="font-family: arial, helvetica, sans-serif;">PALM LES</strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">Large eddy simulation model</span></span></p>
+			</td>
+			<td>
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://palm.muk.uni-hannover.de/trac">Repository Link</a></span></span></p>
+			</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:matthias.mauder@kit.edu,suehring@muk.uni-hannover.de?subject=CHEESEHEAD">Matthias Mauder&nbsp; Matthias Sühring</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">All</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">FORTRAN</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong><span style="font-family: arial, helvetica, sans-serif;">King Air code</span></strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Base processing/QC of UWKA measurements</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:dplumme1@uwyo.edu?subject=CHEESEHEAD">David M. Plummer</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">UWKA measurements excluding lidar</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong>Phenology algorithms</strong></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><span style="font-size:12px;"><strong>Land Surface models</strong></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-size:12px;"><strong style="font-family: arial, helvetica, sans-serif;">Ultralight algorithms</strong></span></p>
+
+			<p><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">Lateral and/or vertical fluxes of vapor, CO2</span></span></p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:gwpetty@wisc.edu?subject=CHEESEHEAD">Grant W. Petty</a></span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">TBD</span></span></td>
+			<td><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">TBD</span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+<style type="text/css">th.header { 
+  cursor: pointer; 
+  color: #FFF;
+  background: #696969;
+}
+</style>
+<script>
+function sortTable(params) {
+  var table, rows, switching, i, curr_row, next_row, curr_text, next_text, shouldSwitch;
+  // get the id of the coln that was clicked
+  var col = params.getAttribute('id');
+  // get the current sort (asc or desc) of the clicked coln
+  var sortord = params.getAttribute('data-sort');
+  table = document.getElementById("project_resp");
+  
+  if (sortord=="999" || sortord=="desc") {
+    document.getElementById(params.id).dataset.sort = "asc";
+  }
+  else {
+    document.getElementById(params.id).dataset.sort = "desc";
+  }
+
+  switching = true;
+
+  /*Make a loop that will continue until
+  no switching has been done:*/
+  while (switching) {
+
+    //start by saying: no switching is done:
+    switching = false;
+
+    rows = table.rows;
+
+    /*Loop through all table rows (except the
+    first, which contains table headers):*/
+    for (i = 1; i < (rows.length - 1); i++) {
+      //start by saying there should be no switching:
+
+      shouldSwitch = false;
+
+      /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+      curr_row = rows[i].getElementsByTagName("TD")[col];
+      next_row = rows[i + 1].getElementsByTagName("TD")[col];
+
+      curr_text = curr_row.textContent.toLowerCase().trim();
+      next_text = next_row.textContent.toLowerCase().trim();
+      
+      // check if we the coln currently set to ascending or descending sort
+      if (sortord == "desc" || sortord == "999") { // if desc then sort ascending
+
+        //check if the two rows should switch place:
+        if (curr_text > next_text) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        } // close if
+      } // close if
+      else { // if asc sort descending
+     
+        //check if the two rows should switch place:
+        if (curr_text < next_text) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        } // close if
+
+      } // close else
+    } // close for loop
+
+    if (shouldSwitch) {
+      /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    } // close if
+
+  } // close while
+}
+</script></p>
+
+========
+
+<p><a href="https://www.eol.ucar.edu/field_projects/m2hats">M2HATS Homepage</a></p>
+
+<h4>ISFS Staff</h4>
+
+<p>Lead Scientist: Steve Oncley - <a href="mailto:wbrown@ucar.edu">oncley@ucar.edu</a></p>
+
+<p>Engineers: Chris Roden, Gary Granger, Isabel Suhr</p>
+
+<p>Technicians: Anthony Wiese, William Nicewonger</p>
+
+<p>Associate Scientist/Data Managers: Jacquie Witte <a href="mailto:jwitte@ucar.edu">jwitte@ucar.edu</a>, Matt Paulus</p>
+
+<p>&nbsp;</p>
+
+<h4>Related Documentation</h4>
+
+<p>Wiki:&nbsp;<a href="https://wiki.ucar.edu/display/M2HATSISFS">https://wiki.ucar.edu/display/M2HATSISFS</a><br />
+netCDF File Conventions: <a href="https://www.eol.ucar.edu/content/isfs-netcdf-files">https://www.eol.ucar.edu/content/isfs-netcdf-files</a><br />
+ISFS Guides: <a href="https://www.eol.ucar.edu/content/isfs-guides">https://www.eol.ucar.edu/content/isfs-guides</a></p>
+
+<p>&nbsp;</p>
+
+<h4>Realtime Preliminary Plots</h4>
+
+<p>NCharts time series:&nbsp;<a href="http://datavis.eol.ucar.edu/ncharts/projects/M2HATS">http://datavis.eol.ucar.edu/ncharts/projects/M2HATS</a></p>
+
+<p>Profile and spatial plots and statistics:&nbsp;<a href="https://archive.eol.ucar.edu/docs/isf/projects/M2HATS/isfs/qcdata/">https://archive.eol.ucar.edu/docs/isf/projects/M2HATS/isfs/qcdata/</a></p>
+
+<p>&nbsp;</p>
+
+<h4>Site Set-up</h4>
+
+<drupal-media data-entity-type="media" data-entity-uuid="6410be8d-c1de-49d7-a3c3-2d8670e2b2a6" data-view-mode=""></drupal-media>
+
+<p>Erect an array of fifty (50) 5 m towers with weather (wind, temperature, humidity) and water vapor/carbon dioxide instrumentation.&nbsp; These towers would be guyed using commercial ratchet straps attached to 18” long screw anchors in the ground.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<thead>
+		<tr>
+			<th scope="col">Sensors</th>
+			<th scope="col">#</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>3D Sonic anemometer</td>
+			<td>51</td>
+		</tr>
+		<tr>
+			<td>EC150 H2O/CO2 gas analyzer</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>Nanobarometers</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>Temperature/RH</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>NR01 radiometer</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>Soils</td>
+			<td>3 sets</td>
+		</tr>
+		<tr>
+			<td>OTT disdrometer</td>
+			<td>1</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+========
+Search complete. Found 27 instances

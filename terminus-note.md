@@ -16,5 +16,9 @@ terminus drush eol-unity.live -- sqlq "SELECT VERSION();"
 #Display what modules would be installed but don't install them
 terminus drush mmm-unity.dev -- pm:install --simulate opensky_publications
 
+#Enable custom module from upstream
+terminus drush mmm-unity.dev -- pm:install opensky_publications
 
+#Retrieve date for a custom module
+terminus drush mmm-unity.dev -- opensky-publications:sync
 ```

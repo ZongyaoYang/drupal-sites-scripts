@@ -21,4 +21,7 @@ terminus drush mmm-unity.dev -- opensky-publications:sync
 
 #Give a person admin role
 terminus drush hao-unity.live -- user-add-role "administrator" zyang
+
+#Create a user based on the email address
+terminus drush cesm-unity.dev -- user:create zyang --mail='zyang@ucar.edu'
 ```

@@ -16,7 +16,7 @@ terminus drush mmm-unity.dev -- pm:install --simulate opensky_publications
 #Enable custom module from upstream
 terminus drush mmm-unity.dev -- pm:install opensky_publications
 
-#Retrieve date for a custom module
+#Retrieve data for a custom module
 terminus drush mmm-unity.dev -- opensky-publications:sync
 
 #Give a person admin role

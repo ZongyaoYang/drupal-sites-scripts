@@ -16,6 +16,9 @@ terminus drush mmm-unity.dev -- pm:install --simulate opensky_publications
 #Enable custom module from upstream
 terminus drush mmm-unity.dev -- pm:install opensky_publications
 
+#Uninstall a module
+terminus drush acom-unity.live -- pmu staff_data
+
 #Retrieve data for a custom module
 terminus drush mmm-unity.dev -- opensky-publications:sync
 

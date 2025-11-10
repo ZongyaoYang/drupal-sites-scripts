@@ -1,6 +1,6 @@
 ```bash
 
-#Synce LIVE to DEV
+# Synce LIVE to DEV
 terminus env:clone-content eol-unity.live dev --yes
 
 #Open Database with Pan Cake

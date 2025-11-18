@@ -31,6 +31,20 @@ terminus drush cesm-unity.dev -- user:create zyang --mail='zyang@ucar.edu'
 
 # Create mock user on multi-dev
 
+1. Create the user ```dev-mock```
+
 ```
 terminus drush climatedataguide-unity.date-field -- user:create dev-mock --mail="dev-mock@example.com"
+```
+
+2. Set password
+   
+```
+terminus drush climatedataguide-unity.date-field -- user:password dev-mock --password="pantheon123"
+```
+
+3. Add adminnistrator role
+
+```
+terminus drush climatedataguide-unity.date-field -- user:role-add administrator dev-mock
 ```

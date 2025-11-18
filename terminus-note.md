@@ -48,3 +48,15 @@ terminus drush climatedataguide-unity.date-field -- user:password dev-mock --pas
 ```
 terminus drush climatedataguide-unity.date-field -- user:role-add administrator dev-mock
 ```
+
+4. Unblock user via CLI
+
+```
+terminus drush climatedataguide-unity.date-field -- user:unblock dev-mock
+```
+
+5. Login the user via CLI
+
+```
+terminus drush climatedataguide-unity.date-field -- uli --name=dev-mock
+```

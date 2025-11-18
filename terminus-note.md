@@ -46,7 +46,7 @@ terminus drush climatedataguide-unity.date-field -- user:password dev-mock --pas
 3. Add adminnistrator role
 
 ```
-terminus drush climatedataguide-unity.date-field -- user:role-add administrator dev-mock
+terminus drush climatedataguide-unity.date-field -- user:role:add "administrator" dev-mock
 ```
 
 4. Unblock user via CLI

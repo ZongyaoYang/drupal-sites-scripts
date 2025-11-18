@@ -30,3 +30,7 @@ terminus drush cesm-unity.dev -- user:create zyang --mail='zyang@ucar.edu'
 ```
 
 # Create mock user on multi-dev
+
+```
+terminus drush climatedataguide-unity.date-field -- user:create dev-mock --mail="dev-mock@example.com"
+```

@@ -28,3 +28,5 @@ terminus drush hao-unity.live -- user-add-role "administrator" zyang
 #Create a user based on the email address
 terminus drush cesm-unity.dev -- user:create zyang --mail='zyang@ucar.edu'
 ```
+
+# Create mock user on multi-dev

@@ -60,3 +60,15 @@ terminus drush climatedataguide-unity.date-field -- user:unblock dev-mock
 ```
 terminus drush climatedataguide-unity.date-field -- uli --name=dev-mock
 ```
+
+# Resolve Mutagen sync completed with problems error
+
+```
+ddev config global --performance-mode=none
+```
+
+Maksure
+
+```
+performance-mode=none
+```
